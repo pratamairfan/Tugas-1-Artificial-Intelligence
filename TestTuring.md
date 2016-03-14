@@ -1,6 +1,6 @@
-### Nama : Muhammad Irfan Pratama
-### NIM : 131111394
-### Kelas : TP - A Pagi
+#### Nama : Muhammad Irfan Pratama
+#### NIM : 131111394
+#### Kelas : TP - A Pagi
 
 #Apakah anda setuju atau tidak dengan pendapat Turing?
 
