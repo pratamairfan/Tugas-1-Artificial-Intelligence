@@ -4,9 +4,9 @@
 
 #Apakah anda setuju atau tidak dengan pendapat Turing?
 
-  Saya setuju dengan pendapat turing bahwa jika ingin mengetahui apakah mesin dapat bernalar seperti
-  manusia maka kita memerlukan sebuah permainan imitasi yang mana tujuan dari permainan ini adalah untuk menjebak si interogator
-  agar salah dalam menilai bahwa seseorang yang dimintai pertanyaan tersebut adalah manusia atau sebuah mesin.
+    Saya setuju dengan pendapat turing bahwa jika ingin mengetahui apakah mesin dapat bernalar seperti
+    manusia maka kita memerlukan sebuah permainan imitasi yang mana tujuan dari permainan ini adalah untuk menjebak
+    si interogator agar salah dalam menilai bahwa seseorang yang dimintai pertanyaan tersebut adalah manusia atau sebuah mesin.
 
 #Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat ? 
   Untuk saat ini saya masih belum yakin tapi untuk kedepan mungkin saja. Komputer tidak akan pernah dianggap sebagai mesin yang
