@@ -1,6 +1,6 @@
-##Nama : Muhammad Irfan Pratama
-##NIM : 131111394
-##Kelas : TP - A Pagi
+### Nama : Muhammad Irfan Pratama
+### NIM : 131111394
+### Kelas : TP - A Pagi
 
 #Apakah anda setuju atau tidak dengan pendapat Turing?
 
@@ -28,7 +28,7 @@
     kalimat diketahui, bagian penerjemah keluaran akan menghasilkan keluaran berupa teks dalam bahasa alami. Contohnya adalah babel 
     fish translation, program altavista yang dapat digunakan untuk menerjemahkan teks atau isi web ke berbagai bahasa.
 
-  ##Knowledge Representation
+  ## Knowledge Representation
     Knowledge Representation (KR) merupakan suatu proses pemecahan masalah berdasarkan fakta. Jadi KR akan merepresentasikan
     sebuah permasalahan dengan terstruktur berdasarkan data yang real, tetapi KR memiliki batasan tertentu yaitu hanya dapat
     menyelesaikan sebuah permasalahan berdasarkan data yang sesuai dengan masalah yang ada.
