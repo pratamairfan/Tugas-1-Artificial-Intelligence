@@ -19,14 +19,15 @@ si interogator agar salah dalam menilai bahwa seseorang yang dimintai pertanyaan
 # Istilah pada bidang AI beserta contoh Implementasinya 
 
 ## Pengolahan Bahasa Alami 
-    Pengolahan bahasa alami (natural language processing atau NPL) adalah bidang AI yang berurusan dengan pemahaman bahasa
-    manusia. Kemajuan di bidang ini membuat komputer antara lain dapat melakukan penerjemahan dari satu bahasa manusia kebahasa
-    manusia yang lain. Dalam lingkungan web, altavista menyediakan program serupa yang diberi nama babel fish translasion. 
-    Intellec merupakan contoh sistem permintaan berbahasa alami yang digunakan untuk mengakses basis data. Inti pengolahan bahasa
-    alami ada pada parser. Parser adalah bagian yang membaca kalimat dari bahasa sumber dan menguraikan serta menganalisis kata kata
-    yang terdapat di dalam kalimat tersebut dan mencocokkan dengan tata bahasa yang benar. Pada aplikasi penerjemahan, setelah makna
-    kalimat diketahui, bagian penerjemah keluaran akan menghasilkan keluaran berupa teks dalam bahasa alami. Contohnya adalah babel 
-    fish translation, program altavista yang dapat digunakan untuk menerjemahkan teks atau isi web ke berbagai bahasa.
+  Pengolahan bahasa alami (natural language processing atau NPL) adalah bidang AI yang berurusan dengan pemahaman bahasa
+  manusia. Kemajuan di bidang ini membuat komputer antara lain dapat melakukan penerjemahan dari satu bahasa manusia kebahasa
+  manusia yang lain. Dalam lingkungan web, altavista menyediakan program serupa yang diberi nama babel fish translasion. 
+  Intellec merupakan contoh sistem permintaan berbahasa alami yang digunakan untuk mengakses basis data. Inti pengolahan bahasa
+  alami ada pada parser. Parser adalah bagian yang membaca kalimat dari bahasa sumber dan menguraikan serta menganalisis
+  kata-kata yang terdapat di dalam kalimat tersebut dan mencocokkan dengan tata bahasa yang benar. Pada aplikasi penerjemahan, setelah makna
+  kalimat diketahui, bagian penerjemah keluaran akan menghasilkan keluaran berupa teks dalam bahasa alami. 
+    Contohnya adalah babel 
+      fish translation, program altavista yang dapat digunakan untuk menerjemahkan teks atau isi web ke berbagai bahasa.
 
 ## Knowledge Representation
 Knowledge Representation (KR) merupakan suatu proses pemecahan masalah berdasarkan fakta. Jadi KR akan merepresentasikan
@@ -51,5 +52,5 @@ setelah itu mesin dapat memakai data yang tersimpan tadi sebagai acuan untuk men
 Computer Vision merupakan sebuah proses otomatis yang mengintegrasikan proses visual pengolahan citra dan mengolahnya untuk
 membuat keputusan. Cara kerja dari computer vision sama dengan proses visual pada manusia.
     
-    ``Contoh:   - Robot yang dapat mempelajari sekelilingnya,
-              - Mobil Self-driving``
+    Contoh:   - Robot yang dapat mempelajari sekelilingnya,
+              - Mobil Self-driving
