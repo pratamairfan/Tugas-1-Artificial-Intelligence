@@ -18,8 +18,8 @@
   mesin dia pasti akan berlaku cemerlang dan tidak memiliki kesalahan pada aritmatika.
 
 # Istilah pada bidang AI beserta contoh Implementasinya 
-  
-  ## Pengolahan Bahasa Alami 
+
+## Pengolahan Bahasa Alami 
     Pengolahan bahasa alami (natural language processing atau NPL) adalah bidang AI yang berurusan dengan pemahaman bahasa
     manusia. Kemajuan di bidang ini membuat komputer antara lain dapat melakukan penerjemahan dari satu bahasa manusia kebahasa
     manusia yang lain. Dalam lingkungan web, altavista menyediakan program serupa yang diberi nama babel fish translasion. 
@@ -29,23 +29,23 @@
     kalimat diketahui, bagian penerjemah keluaran akan menghasilkan keluaran berupa teks dalam bahasa alami. Contohnya adalah babel 
     fish translation, program altavista yang dapat digunakan untuk menerjemahkan teks atau isi web ke berbagai bahasa.
 
-  ## Knowledge Representation
+## Knowledge Representation
     Knowledge Representation (KR) merupakan suatu proses pemecahan masalah berdasarkan fakta. Jadi KR akan merepresentasikan
     sebuah permasalahan dengan terstruktur berdasarkan data yang real, tetapi KR memiliki batasan tertentu yaitu hanya dapat
     menyelesaikan sebuah permasalahan berdasarkan data yang sesuai dengan masalah yang ada.
     Contoh:  Sistem Pakar, Sistem pengambilan keputusan
 
-  ##Automated Reasoning
+##Automated Reasoning
     Automated Reasoning atau Penalaran Otomatis merupakan sebuah logika untuk memahami seluruh aspek penalaran. 
     Penalaran otomatis juga digunakan untuk membuat mesin/komputer agar berjalan sesuai dengan penalaran manusia secara otomatis.
     Contoh:  Robot, Program AI game
 
-  ##Machine learning 
+##Machine learning 
     Machine Learning merupakan sebuah cara agar mesin dapat belajar mengingat semua hal yang baru dia temui dan mempelajarinya,
     setelah itu mesin dapat memakai data yang tersimpan tadi sebagai acuan untuk mencapai sebuah kesimpulan.
     Contoh: Search Engine Google, Bing, Yahoo, dll
     
-  ##Computer Vision
+##Computer Vision
     Computer Vision merupakan sebuah proses otomatis yang mengintegrasikan proses visual pengolahan citra dan mengolahnya untuk
     membuat keputusan. Cara kerja dari computer vision sama dengan proses visual pada manusia.
     Contoh:   - Robot yang dapat mempelajari sekelilingnya,
