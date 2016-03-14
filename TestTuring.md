@@ -17,10 +17,11 @@
   meniru sebuah mesin pasti mereka akan menunjukkan sesuatu yang buruk misalnya saja kesalahan pada aritmatika, tetapi jika itu
   mesin dia pasti akan berlaku cemerlang dan tidak memiliki kesalahan pada aritmatika.
 
-#Istilah pada bidang AI beserta contoh Implementasinya 
-  ##Pengolahan Bahasa Alami 
+# Istilah pada bidang AI beserta contoh Implementasinya 
+  
+  ## Pengolahan Bahasa Alami 
     Pengolahan bahasa alami (natural language processing atau NPL) adalah bidang AI yang berurusan dengan pemahaman bahasa
-    manusia. Kemajuan di bidang ini membuat komputer antara lain dapat melakukan penerjemahan dari satu bahasa manusia ke bahasa
+    manusia. Kemajuan di bidang ini membuat komputer antara lain dapat melakukan penerjemahan dari satu bahasa manusia kebahasa
     manusia yang lain. Dalam lingkungan web, altavista menyediakan program serupa yang diberi nama babel fish translasion. 
     Intellec merupakan contoh sistem permintaan berbahasa alami yang digunakan untuk mengakses basis data. Inti pengolahan bahasa
     alami ada pada parser. Parser adalah bagian yang membaca kalimat dari bahasa sumber dan menguraikan serta menganalisis kata kata
