@@ -1,1 +1,0 @@
-# Tugas-1-Artificial-Intelligence
