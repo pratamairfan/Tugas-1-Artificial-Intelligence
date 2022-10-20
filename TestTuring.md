@@ -26,9 +26,8 @@ si interogator agar salah dalam menilai bahwa seseorang yang dimintai pertanyaan
   alami ada pada parser. Parser adalah bagian yang membaca kalimat dari bahasa sumber dan menguraikan serta menganalisis
   kata-kata yang terdapat di dalam kalimat tersebut dan mencocokkan dengan tata bahasa yang benar. Pada aplikasi penerjemahan, setelah makna
   kalimat diketahui, bagian penerjemah keluaran akan menghasilkan keluaran berupa teks dalam bahasa alami. 
-    Contohnya adalah babel
     
-      fish translation, program altavista yang dapat digunakan untuk menerjemahkan teks atau isi web ke berbagai bahasa.
+    Contohnya adalah babel fish translation, program altavista yang dapat digunakan untuk menerjemahkan teks atau isi web ke berbagai bahasa.
 
 ## Knowledge Representation
 Knowledge Representation (KR) merupakan suatu proses pemecahan masalah berdasarkan fakta. Jadi KR akan merepresentasikan
